@@ -1,7 +1,7 @@
 
 # Weather App
 
-A simple Flutter application that provides real-time weather forecasts. This app fetches weather data from an external API and displays the current weather conditions, along with a 5-day forecast.
+A simple Flutter application that provides real-time weather forecasts. This app fetches weather data from an external API and displays the current weather conditions, along with a hourley forecast.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Features
 
 - **Real-time weather data:** Get the current weather conditions for any location.
-- **5-day forecast:** View the weather forecast for the upcoming week.
+- **Hourley forecast:** View the weather forecast for the upcoming hours.
 - **User-friendly UI:** Clean and intuitive user interface with visually appealing design.
 
 ## Installation
