@@ -30,7 +30,7 @@ To run this app locally, follow these steps:
 
    ```bash
    git clone https://github.com/JoHnOvRkiLL/weather_app_flutter.git
-   cd weather_app
+   cd weather_app_flutter
    ```
 
 2. **Install dependencies:**
